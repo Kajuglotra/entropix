@@ -6,6 +6,7 @@ params = {
   "n_layers": 16,
   "n_heads": 32,
   "n_kv_heads": 8,
+  "key" : 2,
   "vocab_size": 128256,
   "ffn_dim_multiplier": 1.5,
   "multiple_of": 256,
